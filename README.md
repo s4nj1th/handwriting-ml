@@ -130,7 +130,7 @@ The entire pipeline is implemented in [`main.ipynb`](./main.ipynb). Open it in *
 
 * Loss: CrossEntropy
 * Optimizer: Adam
-* Epochs: 10
+* Epochs: 45
 * Outputs training and validation metrics
 
 ### Inference & Export
